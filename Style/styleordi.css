@@ -1,0 +1,14 @@
+@media screen and (min-width: 1200px){
+    .photo{
+        width: 278px;
+    }
+
+    .slider{
+        margin: 0 100px 0 650px;
+    }
+
+    h2{
+        font-size: 120pt;
+        bottom: 0;
+    }
+}
